@@ -4,7 +4,7 @@
 		module="test3-prabhat_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160215183006"
+		publication="20160215183709"
 	>
 		<description>
 		test3-prabhat
@@ -34,6 +34,8 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.7" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.7" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="org.scoverage" name="scalac-scoverage-runtime_2.11" rev="1.1.1" transitive="false" conf="provided->default(compile)"/>
+		<dependency org="org.scoverage" name="scalac-scoverage-plugin_2.11" rev="1.1.1" transitive="false" conf="provided->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.0-M15" conf="compile->default(compile)"/>
 		<dependency org="ch.qos.logback" name="logback-classic" rev="1.1.5" conf="compile->default(compile)"/>
 	</dependencies>
