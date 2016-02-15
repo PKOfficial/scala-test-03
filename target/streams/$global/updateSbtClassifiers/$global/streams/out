@@ -1365,3 +1365,28 @@
 [debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.9/srcs/main-settings-sources.jar
 [info] downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.9/srcs/main-settings-sources.jar ...
 [debug] 	typesafe-ivy-releases: downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.9/srcs/main-settings-sources.jar
+[debug] 	typesafe-ivy-releases: downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.9/srcs/main-settings-sources.jar.sha1
+[debug] sha1 OK for https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.9/srcs/main-settings-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-sbt#main-settings;0.13.9!main-settings.jar(src) (6200ms)
+[debug] 		tried /home/prabhat/.ivy2/local/org.scala-sbt/apply-macro/0.13.9/srcs/apply-macro-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-sbt/apply-macro/0.13.9/apply-macro-0.13.9-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/org/scala-sbt/apply-macro/0.13.9/apply-macro-0.13.9-sources.jar
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.9/srcs/apply-macro-sources.jar
+[info] downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.9/srcs/apply-macro-sources.jar ...
+[debug] 	typesafe-ivy-releases: downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.9/srcs/apply-macro-sources.jar
+[debug] 	typesafe-ivy-releases: downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.9/srcs/apply-macro-sources.jar.sha1
+[debug] sha1 OK for https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.9/srcs/apply-macro-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar(src) (6016ms)
+[debug] 		tried /home/prabhat/.ivy2/local/org.scala-sbt/command/0.13.9/srcs/command-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-sbt/command/0.13.9/command-0.13.9-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/org/scala-sbt/command/0.13.9/command-0.13.9-sources.jar
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.9/srcs/command-sources.jar
+[info] downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.9/srcs/command-sources.jar ...
+[debug] 	typesafe-ivy-releases: downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.9/srcs/command-sources.jar
+[debug] 	typesafe-ivy-releases: downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.9/srcs/command-sources.jar.sha1
+[debug] sha1 OK for https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.9/srcs/command-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-sbt#command;0.13.9!command.jar(src) (6091ms)
+[debug] 		tried /home/prabhat/.ivy2/local/org.scala-sbt/logic/0.13.9/srcs/logic-sources.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-sbt/logic/0.13.9/logic-0.13.9-sources.jar
+[debug] CLIENT ERROR: Not Found url=https://jcenter.bintray.com/org/scala-sbt/logic/0.13.9/logic-0.13.9-sources.jar
+[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logic/0.13.9/srcs/logic-sources.jar
