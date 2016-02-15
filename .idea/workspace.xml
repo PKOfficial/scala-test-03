@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceaf587c-c1c3-41bf-81ea-d76d124dec19" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/test3-prabhat-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/test3-prabhat-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/test3-prabhat.iml" afterPath="$PROJECT_DIR$/.idea/modules/test3-prabhat.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-    </list>
+    <list default="true" id="ceaf587c-c1c3-41bf-81ea-d76d124dec19" name="Default" comment="" />
     <ignored path="test3-prabhat.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
